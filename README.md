@@ -1,1 +1,1 @@
-# RTF_Editor
+# RTF_Editor（Chinese Simple）
